@@ -1,0 +1,16 @@
+{
+  "name": "tele",
+  "version": "1.0.0",
+  "description": "sa",
+  "main": "serv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node serv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "telegraf": "^4.0.1"
+  }
+}
